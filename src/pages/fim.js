@@ -22,7 +22,7 @@ export default function Home() {
         <div className={styles.form_body}>
           <div className={styles.form_content}>
             <h2 className={averia.className}>
-              Combo esgotado para retirada neste shopping.
+              Combo esgotado para retirada nesta escola.
             </h2>
 
             <p>Entraremos em contato via e-mail para enviar o combo na sua casa. 🥃</p>

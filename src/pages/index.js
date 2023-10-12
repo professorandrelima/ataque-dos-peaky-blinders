@@ -29,10 +29,10 @@ export default function Home() {
         <div className={styles.form_body}>
           <div className={styles.form_content}>
             <h2 className={averia.className}>
-              Você ganhou um combo de Whisky Grátis em comemoração ao lançamento do filme! Resgate agora!
+              Você ganhou um combo de Cursos voltado para TI em comemoração ao dia do Profissonal de Tecnologia da Informação! Resgate agora!
             </h2>
 
-            <p>Promoção exclusiva para o Shopping Iguatemi São Paulo.</p>
+            <p>Promoção exclusiva para EEEP Elsa Maria Porto Costa Lima</p>
           </div>
 
           <div className={styles.form_data}>
