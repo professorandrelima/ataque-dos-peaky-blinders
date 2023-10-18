@@ -22,10 +22,10 @@ export default function Home() {
         <div className={styles.form_body}>
           <div className={styles.form_content}>
             <h2 className={averia.className}>
-              Combo esgotado para retirada nesta escola.
+              PARABÉNS, você ganhou um curso UDEMY voltado para TI.
             </h2>
 
-            <p>Entraremos em contato via e-mail para enviar o combo na sua casa. 🥃</p>
+            <p>Para retirar seu prêmio, é necessário assistir as duas palestras em comemoração ao dia do profissional de TI. 🥃</p>
           </div>
         </div>
       </div>
