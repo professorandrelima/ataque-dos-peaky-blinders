@@ -32,7 +32,7 @@ export default function Home() {
               Você ganhou um combo de Cursos voltado para Segurança da INformação/CyberSecurity! Resgate agora!
             </h2>
 
-            <p>Promoção exclusiva para Youth Space/p>
+            <p>Promoção exclusiva para Youth Space</p>
           </div>
 
           <div className={styles.form_data}>
