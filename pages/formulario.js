@@ -79,7 +79,6 @@ export default function Home() {
           © 2026 Peaky Blinders
         </span>
       </div>
-
     </div>
   )
 }
