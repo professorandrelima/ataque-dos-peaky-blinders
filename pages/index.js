@@ -29,7 +29,7 @@ export default function Home() {
         <div className={styles.form_body}>
           <div className={styles.form_content}>
             <h2 className={averia.className}>
-              Você ganhou um combo de Cursos voltado para TI em comemoração ao dia do Profissonal de Tecnologia da Informação! Resgate agora!
+              Você ganhou um combo de Cursos voltado para Segurança Informação e CyberSecurity! Resgate agora!
             </h2>
 
             <p>Promoção exclusiva para Youth Space</p>
