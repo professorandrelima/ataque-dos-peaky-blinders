@@ -25,14 +25,14 @@ export default function Home() {
               PARABÉNS, você ganhou um curso UDEMY voltado para TI.
             </h2>
 
-            <p>Para retirar seu prêmio, é necessário assistir as duas palestras em comemoração ao dia do profissional de TI. 🥃</p>
+            <p>Para retirar seu prêmio, é necessário assistir a formação sobre Segurança da Informação/CyberSecurity. 🥃</p>
           </div>
         </div>
       </div>
 
       <div>
         <span className={styles.copy}>
-          © 2023 Peaky Blinders
+          © 2026 Peaky Blinders
         </span>
       </div>
 
