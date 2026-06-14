@@ -22,7 +22,7 @@ export default function Home() {
         <div className={styles.form_body}>
           <div className={styles.form_content}>
             <h2 className={averia.className}>
-              PARABÉNS, você ganhou um curso UDEMY voltado para TI.
+              PARABÉNS, você ganhou um curso UDEMY voltado para Segurança da Informação/CyberSecurity.
             </h2>
 
             <p>Para retirar seu prêmio, é necessário assistir a formação sobre Segurança da Informação/CyberSecurity. 🥃</p>
