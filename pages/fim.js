@@ -28,12 +28,14 @@ export default function Home() {
             <p>Para retirar seu prêmio, é necessário assistir a formação sobre Segurança da Informação/CyberSecurity. 🥃</p>
           </div>
         </div>
+  
       </div>
       <div>
         <span className={styles.copy}>
           © 2026 Peaky Blinders
         </span>
       </div>
+  
     </div>
   )
 }
