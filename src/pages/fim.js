@@ -32,7 +32,7 @@ export default function Home() {
 
       <div>
         <span className={styles.copy}>
-          © 2023 Peaky Blinders
+          © 2026 Peaky Blinders
         </span>
       </div>
 
