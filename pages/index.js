@@ -32,7 +32,7 @@ export default function Home() {
               Você ganhou um combo de Cursos voltado para TI em comemoração ao dia do Profissonal de Tecnologia da Informação! Resgate agora!
             </h2>
 
-            <p>Promoção exclusiva para EEEP Elsa Maria Porto Costa Lima</p>
+            <p>Promoção exclusiva para Youth Space</p>
           </div>
 
           <div className={styles.form_data}>
