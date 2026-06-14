@@ -29,13 +29,11 @@ export default function Home() {
           </div>
         </div>
       </div>
-
       <div>
         <span className={styles.copy}>
           © 2026 Peaky Blinders
         </span>
       </div>
-
     </div>
   )
 }
